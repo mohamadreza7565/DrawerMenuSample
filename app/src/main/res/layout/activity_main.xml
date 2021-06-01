@@ -42,7 +42,7 @@
             android:layout_centerInParent="true"
             android:textColor="@color/black"
             android:textSize="20sp"
-            android:text="نشانه گذاری ها" />
+             android:text="صفحه خانه" />
 
 
     </RelativeLayout>
